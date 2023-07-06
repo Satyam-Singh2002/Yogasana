@@ -21,7 +21,7 @@ In order to run this project locally, ensure that you have NodeJS and MongoDB in
 For cloning run
 
 ```
-$ git clone https://github.com/abdulqadir18/Yogasana.git
+$ git clone https://github.com/Satyam-Singh2002/Yogasana.git
 ```
 
 - Open the project in your prefered code editor.
